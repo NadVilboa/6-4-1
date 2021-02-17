@@ -48,7 +48,6 @@ p {
 .info {
     display: flex;
     flex-wrap: wrap;
-    margin: 20px auto;
 }
 
 article {
